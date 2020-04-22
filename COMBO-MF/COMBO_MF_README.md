@@ -31,9 +31,10 @@ from all different prototypes.
 ## Inter-plate analysis
 
 The following short animation shows how to deploy the computational 
-module COMBO-MF, in order to perform inter-plate analysis, meaning 
-to merge and visualize the results obtained for all replicate
-plates/batches.
+module COMBO-MF, in order to perform inter-plate analysis. This involves
+quality control of the inter-plate replicate results, calculation of the 
+corresponding median values to reduce experimental noise/variability and
+visualization.
 
 ![Demo_InterPlate](./COMBO_MF_InterPlate.gif)
 
