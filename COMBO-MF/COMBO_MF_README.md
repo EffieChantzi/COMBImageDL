@@ -22,7 +22,7 @@ libraries.
 - Merge results from all prototypes
 
 The following short animation shows how to deploy the computational 
-module COMBO-MF, in order to merge all intra-plate analyses results
+module COMBO-MF, in order to merge all intra-plate analysis results
 from all different prototypes.
 
 ![Demo_IntraPlate_MergePrototypes](./COMBO_MF_IntraPlate_AllPrototypes.gif)
