@@ -32,9 +32,9 @@ from all different prototypes.
 
 The following short animation shows how to deploy the computational 
 module COMBO-MF, in order to perform inter-plate analysis. This involves
-quality control of the inter-plate replicate results, calculation of the 
-corresponding median values to reduce experimental noise/variability and
-visualization.
+quality control of the replicate results among the different plates/batches,
+calculation of the corresponding median values to reduce experimental 
+noise/variability and joint visualization.
 
 ![Demo_InterPlate](demo/COMBO_MF_InterPlate.gif)
 
