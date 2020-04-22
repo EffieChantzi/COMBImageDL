@@ -9,6 +9,8 @@ https://www.mathworks.com/products/compiler/mcr/index.html
 
 ## Intra-plate analysis
 
+- One prototype 
+
 The following short animation shows how to deploy the computational
 module COMBO-MF in order to perform intra-plate analysis using one
 prototypic object.
