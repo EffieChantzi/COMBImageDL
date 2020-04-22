@@ -16,7 +16,7 @@ module COMBO-MF, in order to perform intra-plate analysis using one
 prototypic object, manually extracted from the phase-contrast image
 libraries.
 
-![Demo_IntraPlate_OnePrototype](./COMBO_MF_IntraPlate_OnePrototype.gif)
+![Demo_IntraPlate_OnePrototype](demo/COMBO_MF_IntraPlate_OnePrototype.gif)
 
 
 - Merge results from all prototypes
@@ -25,7 +25,7 @@ The following short animation shows how to deploy the computational
 module COMBO-MF, in order to merge all intra-plate analysis results
 from all different prototypes.
 
-![Demo_IntraPlate_MergePrototypes](./COMBO_MF_IntraPlate_AllPrototypes.gif)
+![Demo_IntraPlate_MergePrototypes](demo/COMBO_MF_IntraPlate_AllPrototypes.gif)
 
 
 ## Inter-plate analysis
@@ -36,7 +36,7 @@ quality control of the inter-plate replicate results, calculation of the
 corresponding median values to reduce experimental noise/variability and
 visualization.
 
-![Demo_InterPlate](./COMBO_MF_InterPlate.gif)
+![Demo_InterPlate](demo/COMBO_MF_InterPlate.gif)
 
 
 
