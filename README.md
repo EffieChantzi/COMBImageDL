@@ -4,14 +4,17 @@ COMBImageDL is a deep learning (DL) improved version of our recently developed f
 
 COMBImageDL improves the functionality and overall performance of COMBImage2 (https://doi.org/10.1186/s12859-019-2908-0) by means of DL and in particular, a modified version of the convolutional neural network U-Net, which is employed to perform semantic image segmentation of the phase-contrast (grayscale) images into foreground and background pixels. COMBImageDL consists in total of 6 experimental-computational modules thoroughly described in our previous work (https://doi.org/10.1186/s12859-019-2908-0). Briefly,
 
-- COMBO-Pick: it offers automated and randomized 384-well plate design.
+- **COMBO-Pick** offers automated and randomized 384-well plate design.
 
-- COMBO-C: it offers quantification and visualization of time evolving cell culture growth.
+- **COMBO-C** offers quantification and visualization of time evolving cell culture growth.
 
-- COMBO-M: it offers quantification and visualization of time evolving changes in cell culture morphology.
+- **COMBO-M** offers quantification and visualization of time evolving changes in cell culture morphology.
 
-- COMBO-MF: it offers quantification and visualization of time evoving apoptotic-like cell counts.
+- **COMBO-MF** offers quantification and visualization of time evoving apoptotic-like cell counts.
 
-- COMBO-V: it offers endpoint cell viability and synergy analyses of any order. 
+- **COMBO-V** offers endpoint cell viability and synergy analyses of any order. 
 
-- COMBO-Mine: it offers temporal data fusion and mining of all 4 types of response patterns extracted by COMBO-C, COMBO-M, COMBO-MF and COMBO-V.
+- **COMBO-Mine** offers temporal data fusion and mining of all 4 types of response patterns extracted by **COMBO-C**, **COMBO-M**, **COMBO-MF** and **COMBO-V**.
+
+
+
