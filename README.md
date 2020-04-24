@@ -21,5 +21,9 @@ COMBImageDL improves the functionality and overall performance of COMBImage2 (ht
 An exhaustive *in vitro* evaluation of the 9-drug cocktail CUSP9 (https://doi.org/10.18632/oncotarget.2408) for treatment of glioblastoma was for the first time designed, performed and analyzed by means of the COMBImageDL framework. More specifically, all 511 plausible subsets of the CUSP9v4 protocol (aprepitant, auranofin, captopril, celecoxib, disulfiram, itraconazole, minocycline, quetiapine, sertraline) were evaluated for the first time as add-on to standard-of-care temozolomide, on a drug resistant glioblastoma cell line (M059K), by combining endpoint cell viability measurements and quantitative label-free live-cell imaging. The experiment was performed in quadruplicate (i.e. 8x384-well plates, > 100GB image data), in order to quantify uncertainty in the results obtained by taking into account the experimental variability. All generated experimental data are freely available at [Mendeley Repo to be added]. Moreover, all 6 aforementioned COMBImageDL modules are freely distributed here, as standalone executables for Windows machines together with documentation and user guides. In this way, users are able to reproduce the results of our exhaustive *in vitro* CUSP9 study and also employ COMBImageDL in other similar studies. 
 
 ### Getting started
+```
+Download and install the Windows version of MATLAB R2019b Runtime from MathWorks website:  
+```
+https://www.mathworks.com/products/compiler/mcr/index.html
 
 
