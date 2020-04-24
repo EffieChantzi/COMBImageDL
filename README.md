@@ -1,4 +1,3 @@
-# COMBImageDL under construction
+# COMBImageDL
 
-## COMBO-MF
-![COMBO_MF_demo](./COMBO_MF_IntraPlate_OnePrototype.gif)
+COMBImageDL is a deep learning (DL) improved version of our recently developed framework COMBImage2, designed to enable systematic test tube analysis of second- and higher-order drug combination studies within and beyond cancer pharmacology. More specifically, COMBImageDL is developed to search exhaustively for drug combinations that induce changes in cell viability and time evolving cell culture morphology by means of conventional endpoint synergy analyses jointly with quantitative label-free live-cell imaging. It includes several quality control procedures to eliminate outliers, non-parametric resampling statistics to quantify uncertainty in the results obtained, as well as a data driven methodology to evaluate response patterns and discern higher- from lower- and single-drug effects.
