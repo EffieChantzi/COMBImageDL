@@ -26,5 +26,7 @@ An exhaustive *in vitro* evaluation of the 9-drug cocktail CUSP9 (https://doi.or
 https://www.mathworks.com/products/compiler/mcr/index.html
 
 
+- Download the COMBImageDL repository on your local machine either manually or via Git for Windows (https://gitforwindows.org/).
+
 
 
