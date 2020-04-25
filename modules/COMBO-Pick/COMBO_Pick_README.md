@@ -24,7 +24,38 @@ suggested by COMBO-Pick and is successfully deployed.
  
  ![Demo_valid](demo/COMBO_Pick.gif)
  
- The results are saved as .xlsx files under \Results\COMBO-Mine in the directory that you set up in the begining. 
+ The results (see below) are saved as .xlsx files under \Results\COMBO-Mine in the data directory that you set up in the begining. 
+ 
+ CUSP9
+└── 1-4
+│    └── 9093
+│    ├── 9095
+│    ├── 9097
+|    ├── 9099
+│    └── training
+├── 5-8
+│    └── 9094
+│    ├── 9096
+│    ├── 9098
+|    ├── 9100 
+│    └── training
+├── prototypes
+├── **Results**
+│     └── **COMBO-Pick**
+│            └── **.xlsx files**
+│
+├── CUSP9_v4_1_4.txt
+├── CUSP9_v4_1_9.txt
+├── CUSP9_v4_5_9.txt
+├── CUSP9-A BMGReader2019-04-29 10.23.34.log
+├── M059K_190429_9093.xlsx
+├── M059K_190429_9094.xlsx
+├── M059K_190429_9095.xlsx
+├── M059K_190429_9096.xlsx
+├── M059K_190429_9097.xlsx
+├── M059K_190429_9098.xlsx
+├── M059K_190429_9099.xlsx
+└── M059K_190429_9100.xlsx
 
 
 
