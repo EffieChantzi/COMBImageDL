@@ -61,6 +61,22 @@ CUSP9
 └── M059K_190429_9100.xlsx
 ```
 
+#### Run modules
+
+All 6 modules of the COMBImageDL framework are organized in separate sufolders under the folder "\modules" of this GitHub repository. Run them in the suggested order below and follow the steps given in their separate guides. 
+
+1. **COMBO-Pick**
+
+2. **COMBO-C**
+
+3. **COMBO-M**
+
+4. **COMBO-MF**
+
+5. **COMBO-V**
+
+6. **COMBO-Pick**
+
 
 
 
