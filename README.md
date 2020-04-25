@@ -30,7 +30,7 @@ An exhaustive *in vitro* evaluation of the 9-drug cocktail [CUSP9](https://doi.o
 
 Once the data from the previous step are all downloaded on your local machine/external hard drive, follow the guidelines below, in order to structure the local data directory in a way that makes the employement of all COMBImageDL modules and the reproduction of the results as smooth as possible.  
 
-The directory should be set up as shown in the tree structure below. Firstly, create a top level folder called, for example, "\CUSP9". As a second step, copy and paste the folder "\prototypes" and the files "CUSP9_v4_1_4.txt", "CUSP9_v4_1_9.txt", "CUSP9_v4_5_9.txt", "CUSP9-A BMGReader2019-04-29 10.23.34.log", "M059K_190429_9093.xlsx", "M059K_190429_9094.xlsx", "M059K_190429_9095.xlsx", "M059K_190429_9096.xlsx", "M059K_190429_9097.xlsx", "M059K_190429_9098.xlsx", "M059K_190429_9099.xlsx" and "M059K_190429_9100.xlsx".
+The directory should be set up as shown in the tree structure below. Firstly, create a top level folder called, for example, "\CUSP9". As a second step, transfer the folder "\prototypes" and the files "CUSP9_v4_1_4.txt", "CUSP9_v4_1_9.txt", "CUSP9_v4_5_9.txt", "CUSP9-A BMGReader2019-04-29 10.23.34.log", "M059K_190429_9093.xlsx", "M059K_190429_9094.xlsx", "M059K_190429_9095.xlsx", "M059K_190429_9096.xlsx", "M059K_190429_9097.xlsx", "M059K_190429_9098.xlsx", "M059K_190429_9099.xlsx" and "M059K_190429_9100.xlsx". Finally, create two subfolders "\1-4" and "\5-8", where you transfer the folder "\training" and the unzipped image library folders "\9093, \9095, \9097, \9099" and "\9094, \9096, \9098, \9100", respectively.
 ```
 CUSP9
 └── 1-4
