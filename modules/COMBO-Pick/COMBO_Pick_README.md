@@ -23,6 +23,8 @@ suggested by COMBO-Pick and is successfully deployed.
  ## Employ feasible design
  
  ![Demo_valid](demo/COMBO_Pick.gif)
+ 
+ The results are saved as .xlsx files under \Results\COMBO-Mine in the directory that you set up in the begining. 
 
 
 
