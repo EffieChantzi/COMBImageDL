@@ -41,9 +41,9 @@ suggested by COMBO-Pick and is successfully deployed.
 |    ├── 9100 
 │    └── training
 ├── prototypes
-├── **Results**
-│     └── **COMBO-Pick**
-│            └── **.xlsx files**
+├── Results
+│     └── COMBO-Pick
+│            └── .xlsx files    # here the results from COMBO-Pick are saved
 │
 ├── CUSP9_v4_1_4.txt
 ├── CUSP9_v4_1_9.txt
