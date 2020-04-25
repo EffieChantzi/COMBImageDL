@@ -30,6 +30,24 @@ An exhaustive *in vitro* evaluation of the 9-drug cocktail [CUSP9](https://doi.o
 
 Once the data from the previous step are all downloaded on your local machine/external hard drive, follow the guidelines below, in order to structure the local data directory in a way that makes the employement of all COMBImageDL modules and the reproduction of the results as smooth as possible. 
 
+1. Create a folder, where all downloaded data will be structured and stored. In the documentation files and guides provided here, a folder named \Mendeley is created on an external SSD drive. 
+
+```
+app
+└── screens
+    └── App
+        └── screens
+            ├── Admin
+            │   └── screens
+            │       ├── Reports
+            │       └── Users
+            └── Course
+                └── screens
+                    └── Assignments
+```
+
+
+
 
 
 
