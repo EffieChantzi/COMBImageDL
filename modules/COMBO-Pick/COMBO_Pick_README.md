@@ -8,3 +8,8 @@ Alternatively, you can open a windows command prompt as an administrator, naviga
 ```
 > COMBO_Pick.exe
 ```
+
+2. * The following short animation shows how to deploy the computational
+module COMBO-MF, in order to perform intra-plate analysis and
+visualizatio using one prototypic object, manually extracted 
+from the phase-contrast image libraries.
