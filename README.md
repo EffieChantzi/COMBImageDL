@@ -77,7 +77,7 @@ All 6 modules of the COMBImageDL framework are organized in separate sufolders u
 
 4. **COMBO-V**: This module requires only the endpoint cell viability measurements and performs the intra-/inter-plate analyses and visualization at once. See detailed guidelines in its subfolder.
 
-5. **COMBO-Mine**: Once the inter-plate analyses are completed by all 4 aforementioned computational modules (**COMBO-C**, **COMBO-M**, **COMBO-MF** and **COMBO-V**), run COMBO-Mine. See detailed guidelines in its subfolder.
+5. **COMBO-Mine**: Once the inter-plate analyses are completed by all 4 aforementioned computational modules (**COMBO-C**, **COMBO-M**, **COMBO-MF** and **COMBO-V**), run **COMBO-Mine**. See detailed guidelines in its subfolder.
 
 
 
