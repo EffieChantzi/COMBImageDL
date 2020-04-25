@@ -33,17 +33,18 @@ Once the data from the previous step are all downloaded on your local machine/ex
 1. Create a folder, where all downloaded data will be structured and stored. In the documentation files and guides provided here, a folder named \Mendeley is created on an external SSD drive. 
 
 ```
-app
-└── screens
-    └── App
-        └── screens
-            ├── Admin
-            │   └── screens
-            │       ├── Reports
-            │       └── Users
-            └── Course
-                └── screens
-                    └── Assignments
+Mendeley
+└── 1-4
+│    └── 9093
+│    ├── 9095
+│    ├── 9097
+│    └── 9099
+└── 5-8
+│    └── 9094
+│    ├── 9096
+│    ├── 9098
+│    └── 9100
+└── 5-8
 ```
 
 
