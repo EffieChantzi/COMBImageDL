@@ -1,0 +1,14 @@
+x,1,Aprepitant,1.5,micromolar
+x,1,Auranofin,0.05,micromolar
+x,1,Captopril,0.15,micromolar
+x,1,Celecoxib,0.5,micromolar
+x,1,Disulfiram,0.7,micromolar
+x,1,Itraconazole,1.5,micromolar
+x,1,Minocycline,0.5,micromolar
+x,1,Sertraline,0.5,micromolar
+x,1,Quetiapine,1,micromolar
+z,1,Temozolomide,75,micromolar
+Repli,4
+DMSOvol,0.5
+minOrder,1
+maxOrder,9
