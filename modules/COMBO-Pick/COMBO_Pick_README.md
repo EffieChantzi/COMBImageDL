@@ -24,7 +24,7 @@ suggested by COMBO-Pick and is successfully deployed.
  
  ![Demo_valid](demo/COMBO_Pick.gif)
  
- The results (see below) are saved as .xlsx files under \Results\COMBO-Mine in the data directory that you set up in the begining. 
+ The results (see below) are saved as .xlsx files under \Results\COMBO-Pick in the data directory that you set up in the begining. 
  
  ```
  CUSP9
