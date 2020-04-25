@@ -9,7 +9,21 @@ Alternatively, you can open a windows command prompt as an administrator, naviga
 > COMBO_Pick.exe
 ```
 
-2. * The following short animation shows how to deploy the computational
-module COMBO-MF, in order to perform intra-plate analysis and
-visualizatio using one prototypic object, manually extracted 
-from the phase-contrast image libraries.
+2. The two following short animations show how to deploy COMBO-Pick. In the first case, the user
+defined specification file requests the exhaustive CUSP9 experiment, which does not fit in one 384-well
+plate and thus, COMBO-Pick suggests an alternative solution by splitting the design in more than one plates.
+In the second case, the user-defined specification file is adjusted to comply with the alternative solution
+suggested by COMBO-Pick and is successfully deployed. 
+
+ ## Split infeasible design
+ 
+ ![Demo_invalid](demo/COMBO_Pick_split_experiment.gif)
+ 
+ 
+ ## Employ feasible design
+ 
+ ![Demo_valid](demo/COMBO_Pick.gif)
+
+
+
+
