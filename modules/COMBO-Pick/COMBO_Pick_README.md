@@ -19,6 +19,8 @@ suggested by COMBO-Pick and is successfully deployed.
  
  ![Demo_invalid](demo/COMBO_Pick_split_experiment.gif)
  
+ See also ![pdf_guide_invalid](./COMBO_Pick_split_experiment.pdf) for a PDF guide including all print out results from the command line.
+ 
  
  ## Employ feasible design
  
