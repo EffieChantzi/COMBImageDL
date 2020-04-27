@@ -17,12 +17,12 @@ meaning merging all replicate results obtained from running the intra-plate anal
 plates. 
 
 ## Intra-plate analysis
- See also [COMBO_C_Intra_Plate_PDF](./COMBO_C_IntraPlate.pdf) for a PDF guide including all print out results from the command line. 
+ See also [COMBO_C_Intra_Plate_Guide](./COMBO_C_IntraPlate.pdf) for a PDF guide including all print out results from the command line. 
  
  ![Demo_intra_plate](demo/COMBO_C_IntraPlate.gif)
  
  
  ## Inter-plate analysis
-  See also [COMBO_C_Intra_Plate_PDF](./COMBO_C_InterPlate.pdf) for a PDF guide including all print out results from the command line.
+  See also [COMBO_C_Intra_Plate_Guide(./COMBO_C_InterPlate.pdf) for a PDF guide including all print out results from the command line.
  
  ![Demo_inter_plate](demo/COMBO_C_InterPlate.gif)
