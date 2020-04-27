@@ -139,10 +139,10 @@ experiment is performed in more than one replicate plates.
 ├── Results
 │     └── COMBO-C
 │     ├── COMBO-M
-│     │     └── Change_Morphology_M059K_9093_9095_9097_9099.eps               # .eps file with median cell culture morphology curves (shown  in %)
+│     │     └── Change_Morphology_M059K_9093_9095_9097_9099.eps               # .eps file with median cell culture morphology curves (shown  in %) after inter-plate quality control
 │     │     ├── Change_Morphology_M059K_9093_9095_9097_9099.eps               # as above but in .pdf format
-│     │     ├── Change_Morphology_M059K_190429_9093_9095_9097_9099.csv        # .csv file with the median inter-plate replicate results (in %)
-│     │     ├── Change_Morphology_Untreated_9093_9095_9097_9099.eps           # .eps file with untreated cell culture morphology curves (shown  in %)
+│     │     ├── Change_Morphology_M059K_190429_9093_9095_9097_9099.csv        # .csv file with the median inter-plate replicate results (in %) after inter-plate quality control
+│     │     ├── Change_Morphology_Untreated_9093_9095_9097_9099.eps           # .eps file with untreated cell culture morphology curves (shown  in %) after inter-plate quality control
 │     │     ├── Change_Morphology_Untreated_9093_9095_9097_9099.pdf           # as above but in .pdf format
 │     │     ├── resampling_COMBO_M_9093_9095_9097_9099.eps                    # .eps file with the resampling based null hypothesis significance testing
 │     │     └── resampling_COMBO_M_9093_9095_9097_9099.pdf                    # as above but in .pdf format
