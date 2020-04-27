@@ -21,7 +21,7 @@ plates.
  
  ![Demo_intra_plate](demo/COMBO_C_IntraPlate.gif)
  
- The intra-plate analysis  results for plate "9097" shown in the animation are organized in separate directories and folders under the main data directory that you set up in the beginning. See below:
+ The intra-plate analysis  results for plate "9097" shown in the animation are organized in separate directories and folders under the main data directory that was set up in the beginning. See below:
  
  ```
  CUSP9
