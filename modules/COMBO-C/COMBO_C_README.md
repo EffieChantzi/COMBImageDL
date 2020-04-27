@@ -10,11 +10,14 @@ Alternatively, you can open a windows command prompt as an administrator, naviga
 ```
 
 2. The next two short animations (follow along) show how to deploy COMBO-C using data from the exhaustive CUSP9 
-study. In particular, the first animation shows how to perform intra-plate analysis, meaning time evolving cell 
-growth/confluence quantification and visualization using the phase-contrast live-cell imaging data from one
-replicate plate. The second animation shows how to perform inter-plate quality control, analysis and visualization,
-meaning merging all replicate results obtained from running the intra-plate analysis from above for all replicate
-plates. 
+study. 
+
+In particular, the first animation shows how to perform intra-plate analysis, meaning quantification and 
+visualization of time evolving cell growth/confluence using the phase-contrast live-cell imaging data collected
+for a particular (replicate) plate. 
+
+The second animation shows how to perform inter-plate quality control, analysis and visualization, if the
+experiment is performed in more than one replicate plates.
 
 ## Intra-plate analysis
  See also [COMBO_C_Intra_Plate_Guide](./COMBO_C_IntraPlate.pdf) for a PDF guide including all print out results from the command line. 
@@ -41,7 +44,7 @@ plates.
 │    │    ├── Confluence
 │    │    |       └── 9097_Confluence_UNet.mat       # .mat file needed for further processing from other modules
 │    │    |       ├── BridgeAnnot_Vis_9097.mat       # .mat file needed for visualization & further processing from other modules
-│    │    |       ├── Confluence_M059K_9097.csv      # .csv file with the cell cuture confluence results in the range [0, 1]
+│    │    |       ├── Confluence_M059K_9097.csv      # .csv file with the cell culture confluence results in the range [0, 1]
 │    │    |       ├── Confluence_M059K_9097.eps      # .eps file with cell culture confluence curves (shown  in %)
 │    │    |       └── Confluence_M059K_9097.pdf      # .pdf file with cell culture confluence curves (shown  in %)
 │    │    ├── untreated                              # folder, containing the first time frame of all wells, needed for quality control
@@ -86,7 +89,7 @@ plates.
  
  ![Demo_inter_plate](demo/COMBO_C_InterPlate.gif)
  
- The inter-plate analysis results are saved under the main data directory that was set up in the begining. See below:
+ The inter-plate analysis results are saved under the main data directory that was set up in the beginning. See below:
  
  ```
  CUSP9
