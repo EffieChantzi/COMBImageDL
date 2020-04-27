@@ -105,15 +105,15 @@ plates.
 ├── Results
 │     └── COMBO-Pick
 │     ├── COMBO-C
-│     │     └── Confluence_M059K_9093_9095_9097_9099.eps   # .eps file with median cell culture confluence curves (shown  in %)
-│     │     ├── Confluence_M059K_9093_9095_9097_9099.pdf   # .pdf file with median cell culture confluence curves (shown  in %)
+│     │     └── Confluence_M059K_9093_9095_9097_9099.eps                 # .eps file with median cell culture confluence curves (shown  in %)
+│     │     ├── Confluence_M059K_9093_9095_9097_9099.pdf                 # as above but in .pdf format
 │     │     ├── Confluence_M059K_9093_9095_9097_9099_All_Replicates.eps  # .eps file with cell culture confluence curves (shown  in %) of all inter-plate replicates in ascending order of inter-plate variability
-│     │     ├── Confluence_M059K_9093_9095_9097_9099_All_Replicates.pdf
-│     │     ├── Confluence_M059K_190429_9093_9095_9097_9099.csv
-│     │     ├── Confluence_Untreated_9093_9095_9097_9099.eps
-│     │     ├── Confluence_Untreated_9093_9095_9097_9099.pdf
-│     │     ├── resampling_COMBO_C_9093_9095_9097_9099.eps
-│     │     └── resampling_COMBO_C_9093_9095_9097_9099.pdf
+│     │     ├── Confluence_M059K_9093_9095_9097_9099_All_Replicates.pdf  # as above but in .pdf format
+│     │     ├── Confluence_M059K_190429_9093_9095_9097_9099.csv          # .csv file with the median inter-plate replicate results (in %)
+│     │     ├── Confluence_Untreated_9093_9095_9097_9099.eps             # .eps file with untreated cell culture confluence curves (shown  in %)
+│     │     ├── Confluence_Untreated_9093_9095_9097_9099.pdf             # as above but in .pdf format
+│     │     ├── resampling_COMBO_C_9093_9095_9097_9099.eps               # .eps file with the resampling based null hypothesis significance testing
+│     │     └── resampling_COMBO_C_9093_9095_9097_9099.pdf               # as above but in .pdf format
 ├── CUSP9_v4_1_4.txt
 ├── CUSP9_v4_1_9.txt
 ├── CUSP9_v4_5_9.txt
