@@ -24,4 +24,92 @@ experiment is performed in more than one replicate plates.
  
  ![Demo_intra_plate](demo/COMBO_M_IntraPlate.gif)
  
- The intra-plate analysis  results for plate "9097" shown in the animation are organized in separate directories and folders under the main data directory that was set up in the beginning. See below:
+ The intra-plate analysis  results for plate "9094" shown in the animation are organized in separate directories and folders under the main data directory that was set up in the beginning. See below:
+ 
+  ```
+ CUSP9
+└── 1-4
+│    └── 9093  
+│    ├── 9095
+│    ├── 9097
+│    └── training
+├── 5-8
+│    └── 9094
+│    │    └── BU                               
+│    │    ├── Confluence
+│    │    ├── Morphology
+│    │    │       └── PHHC
+│    │    |       |     └── graphics
+│    │    |       |     |      └── Change_Morphology_M059K_9094_PHHC_Run01_r025_b0125.eps
+│    │    |       |     |      ├── Change_Morphology_M059K_9094_PHHC_Run01_r025_b0125.pdf
+│    │    |       |     |      ├── Change_Morphology_M059K_9094_PHHC_Run02_r025_b05.eps
+│    │    |       |     |      ├── Change_Morphology_M059K_9094_PHHC_Run02_r025_b05.pdf
+│    │    |       |     |      ├── Change_Morphology_M059K_9094_PHHC_Run03_r05_b0125.eps
+│    │    |       |     |      ├── Change_Morphology_M059K_9094_PHHC_Run03_r05_b0125.pdf
+│    │    |       |     |      ├── Change_Morphology_M059K_9094_PHHC_Run04_r05_b05.eps
+│    │    |       |     |      ├── Change_Morphology_M059K_9094_PHHC_Run04_r05_b05.pdf
+│    │    |       |     |      ├── detections_over_time.eps
+│    │    |       |     |      ├── Run01_r025_b0125_Norms.eps
+│    │    |       |     |      ├── Run01_r025_b0125_Norms.pdf
+│    │    |       |     |      ├── Run02_r025_b05_Norms.eps
+│    │    |       |     |      ├── Run02_r025_b05_Norms.pdf
+│    │    |       |     |      ├── Run03_r05_b0125_Norms.eps
+│    │    |       |     |      ├── Run03_r05_b0125_Norms.pdf
+│    │    |       |     |      ├── Run04_r05_b05_Norms.eps
+│    │    |       |     |      └── Run04_r05_b05_Norms.pdf
+│    │    |       |     ├── txt
+│    │    |       |     |    └── parameter_optimization.txt
+│    │    |       |     |      ├── Run01_r025_b0125_All_DTEM_Norm_t_start_1.txt
+│    │    |       |     |      ├── .
+│    │    |       |     |      ├── .
+│    │    |       |     |      ├── Run01_r025_b0125_All_DTEM_Norm_t_start_22.txt
+│    │    |       |     |      ├── Run02_r025_b05_All_DTEM_Norm_t_start_1.txt
+│    │    |       |     |      ├── .
+│    │    |       |     |      ├── .
+│    │    |       |     |      ├── Run02_r025_b05_All_DTEM_Norm_t_start_22.txt
+│    │    |       |     |      ├── Run03_r05_b0125_All_DTEM_Norm_t_start_1.txt
+│    │    |       |     |      ├── .
+│    │    |       |     |      ├── .
+│    │    |       |     |      ├── Run03_r05_b0125_All_DTEM_Norm_t_start_22.txt
+│    │    |       |     |      ├── Run04_r05_b05_All_DTEM_Norm_t_start_1.txt
+│    │    |       |     |      ├── .
+│    │    |       |     |      ├── .
+│    │    |       |     |      ├── Run04_r05_b05_All_DTEM_Norm_t_start_22.txt
+│    │    |       |     ├── 9094_PHHC_Run01_r025_b0125.mat
+│    │    |       |     ├── 9094_PHHC_Run02_r025_b05.mat
+│    │    |       |     ├── 9094_PHHC_Run03_r05_b0125.mat
+│    │    |       |     ├── 9094_PHHC_Run04_r05_b05.mat
+│    │    |       |     ├── BridgeAnnot_Vis_9094_PHHC_Run01_r025_b0125.mat
+│    │    |       |     ├── BridgeAnnot_Vis_9094_PHHC_Run02_r025_b05.mat
+│    │    |       |     ├── BridgeAnnot_Vis_9094_PHHC_Run03_r05_b0125.mat
+│    │    |       |     ├── BridgeAnnot_Vis_9094_PHHC_Run04_r05_b05.mat
+│    │    |       |     ├── Change_Morphology_M059K_9094_PHHC_Run01_r025_b0125.csv
+│    │    |       |     ├── Change_Morphology_M059K_9094_PHHC_Run02_r025_b05.csv
+│    │    |       |     ├── Change_Morphology_M059K_9094_PHHC_Run03_r05_b0125.csv
+│    │    |       |     └── Change_Morphology_M059K_9094_PHHC_Run04_r05_b05.csv
+│    │    ├── untreated                      
+│    │    ├── well_1_frame_1.tif
+│    │    ├── .
+│    │    ├── .                                # all image data collected for plate "9097", after quality control, as .tif files
+│    │    ├── .
+│    │    └── well_N_frame_M.tif    
+│    ├── 9096
+│    ├── 9098
+|    ├── 9100 
+│    └── training
+├── prototypes
+├── Results
+│     └── COMBO-Pick
+├── CUSP9_v4_1_4.txt
+├── CUSP9_v4_1_9.txt
+├── CUSP9_v4_5_9.txt
+├── CUSP9-A BMGReader2019-04-29 10.23.34.log
+├── M059K_190429_9093.xlsx
+├── M059K_190429_9094.xlsx
+├── M059K_190429_9095.xlsx
+├── M059K_190429_9096.xlsx
+├── M059K_190429_9097.xlsx
+├── M059K_190429_9098.xlsx
+├── M059K_190429_9099.xlsx
+└── M059K_190429_9100.xlsx
+```
