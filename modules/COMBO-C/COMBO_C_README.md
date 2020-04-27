@@ -21,6 +21,51 @@ plates.
  
  ![Demo_intra_plate](demo/COMBO_C_IntraPlate.gif)
  
+ The results (see below) are saved in a particularly dedicated directory under \9093, \9094, \9095, \9096, \9097, \9098, \9099, \9100.
+ 
+ 
+ ```
+ CUSP9
+└── 1-4
+│    └── 9093
+│    │    └── BU
+│    │    ├── Confluence
+│    │    ├── untreated
+│    │    ├── well_1_frame_1.tif
+│    │    ├── .
+│    │    ├── .
+│    │    ├── .
+│    │    └── well_N_frame_M.tif
+│    │          
+│    ├── 9095
+│    ├── 9097
+|    ├── 9099
+│    └── training
+├── 5-8
+│    └── 9094
+│    ├── 9096
+│    ├── 9098
+|    ├── 9100 
+│    └── training
+├── prototypes
+├── Results
+│     └── COMBO-Pick
+│            └── .xlsx files    # here the results from COMBO-Pick are saved
+│
+├── CUSP9_v4_1_4.txt
+├── CUSP9_v4_1_9.txt
+├── CUSP9_v4_5_9.txt
+├── CUSP9-A BMGReader2019-04-29 10.23.34.log
+├── M059K_190429_9093.xlsx
+├── M059K_190429_9094.xlsx
+├── M059K_190429_9095.xlsx
+├── M059K_190429_9096.xlsx
+├── M059K_190429_9097.xlsx
+├── M059K_190429_9098.xlsx
+├── M059K_190429_9099.xlsx
+└── M059K_190429_9100.xlsx
+```
+
  
  ## Inter-plate analysis
   See also [COMBO_C_Intra_Plate_Guide(./COMBO_C_InterPlate.pdf) for a PDF guide including all print out results from the command line.
