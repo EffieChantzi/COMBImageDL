@@ -3,7 +3,7 @@ In order to run COMBO-C, follow the instructions below:
 
 1. Right-click on the Windows executable file "COMBO_C.exe" and choose "Run as Administrator".
 Alternatively, you can open a windows command prompt as an administrator, navigate to the path where
-"COMBO-C.exe" is saved and run the command: 
+"COMBO_C.exe" is saved and run the command: 
 
 ```
 > COMBO_C.exe
@@ -36,7 +36,7 @@ plates.
 │    │    |    ├── .
 │    │    |    ├── well_K_frame_M.tif
 │    │    |    ├── outliers.eps                      # .eps file showing the quality control/outlier detection
-│    │    |    ├── outliers.pdf                      # .pdf file with showing the quality control/outlier detection
+│    │    |    ├── outliers.pdf                      # .pdf file showing the quality control/outlier detection
 │    │    |    └── outliers.txt                      # .txt file with the detected & excluded outliers
 │    │    ├── Confluence
 │    │    |       └── 9097_Confluence_UNet.mat       # .mat file needed for further processing from other modules
@@ -66,7 +66,6 @@ plates.
 ├── prototypes
 ├── Results
 │     └── COMBO-Pick
-│            └── .xlsx files    # here the results from COMBO-Pick are saved
 ├── CUSP9_v4_1_4.txt
 ├── CUSP9_v4_1_9.txt
 ├── CUSP9_v4_5_9.txt
@@ -83,12 +82,11 @@ plates.
 
  
  ## Inter-plate analysis
-  See also [COMBO_C_Intra_Plate_Guide(./COMBO_C_InterPlate.pdf) for a PDF guide including all print out results from the command line.
+  See also [COMBO_C_Intra_Plate_Guide](./COMBO_C_InterPlate.pdf) for a PDF guide including all print out results from the command line.
  
  ![Demo_inter_plate](demo/COMBO_C_InterPlate.gif)
  
  The inter-plate analysis results are saved under the main data directory that was set up in the begining. See below:
- 
  
  ```
  CUSP9
@@ -107,7 +105,15 @@ plates.
 ├── Results
 │     └── COMBO-Pick
 │     ├── COMBO-C
-│            
+│     │     └── Confluence_M059K_9093_9095_9097_9099.eps   # .eps file with median cell culture confluence curves (shown  in %)
+│     │     ├── Confluence_M059K_9093_9095_9097_9099.pdf   # .pdf file with median cell culture confluence curves (shown  in %)
+│     │     ├── Confluence_M059K_9093_9095_9097_9099_All_Replicates.eps  # .eps file with cell culture confluence curves (shown  in %) of all inter-plate replicates in ascending order of inter-plate variability
+│     │     ├── Confluence_M059K_9093_9095_9097_9099_All_Replicates.pdf
+│     │     ├── Confluence_M059K_190429_9093_9095_9097_9099.csv
+│     │     ├── Confluence_Untreated_9093_9095_9097_9099.eps
+│     │     ├── Confluence_Untreated_9093_9095_9097_9099.pdf
+│     │     ├── resampling_COMBO_C_9093_9095_9097_9099.eps
+│     │     └── resampling_COMBO_C_9093_9095_9097_9099.pdf
 ├── CUSP9_v4_1_4.txt
 ├── CUSP9_v4_1_9.txt
 ├── CUSP9_v4_5_9.txt
