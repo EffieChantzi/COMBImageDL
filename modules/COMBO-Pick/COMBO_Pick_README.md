@@ -15,19 +15,19 @@ plate and thus, COMBO-Pick suggests an alternative solution by splitting the des
 In the second case, the user-defined specification file is adjusted to comply with the alternative solution
 suggested by COMBO-Pick and is successfully deployed. 
 
- ## Split infeasible design
+ ## Split infeasible design in a 384-well microplate format
  See also [COMBO_Pick_split_experiment_Guide](./COMBO_Pick_split_experiment.pdf) for a PDF guide including all print out results from the command line. 
  
  ![Demo_invalid](demo/COMBO_Pick_split_experiment.gif)
  
  
  
- ## Employ feasible design
+ ## Employ feasible design in a 384-well microplate format
   See also [COMBO_Pick_Guide](./COMBO_Pick.pdf) for a PDF guide including all print out results from the command line.
  
  ![Demo_valid](demo/COMBO_Pick.gif)
  
- The results (see below) are saved as .xlsx files under \Results\COMBO-Pick in the data directory that you set up in the begining. 
+ The results are saved as .xlsx files under the main data directory that was set up in the beginning. See below: 
  
  ```
  CUSP9
