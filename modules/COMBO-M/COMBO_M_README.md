@@ -48,7 +48,7 @@ experiment is performed in more than one replicate plates.
 │    │    |       |     |      ├── Change_Morphology_M059K_9094_PHHC_Run03_r05_b0125.pdf    # as above but in .pdf format
 │    │    |       |     |      ├── Change_Morphology_M059K_9094_PHHC_Run04_r05_b05.eps      # .eps file with temporal curves of changes in cell culture morphology (shown in %) for parameter pair no. 4
 │    │    |       |     |      ├── Change_Morphology_M059K_9094_PHHC_Run04_r05_b05.pdf      # as above but in .pdf format
-│    │    |       |     |      ├── detections_over_time.eps                                 # .eps file showing the number of intersting morphologically detections over time for all different parameter pair values
+│    │    |       |     |      ├── detections_over_time.eps                                 # .eps file showing the number of wells exhibiting interesting drug induced morphological changes for all different parameter pair values
 │    │    |       |     |      ├── Run01_r025_b0125_Norms.eps                               # .eps file with histogram showing the hierarchical pixel histogram deviations between untreated and drug-treated wells for paramenter pair no. 1
 │    │    |       |     |      ├── Run01_r025_b0125_Norms.pdf                               # as above but in .pdf format
 │    │    |       |     |      ├── Run02_r025_b05_Norms.eps                                 # .eps file with histogram showing the hierarchical pixel histogram deviations between untreated and drug-treated wells for paramenter pair no. 2
@@ -90,7 +90,7 @@ experiment is performed in more than one replicate plates.
 │    │    ├── untreated                      
 │    │    ├── well_1_frame_1.tif
 │    │    ├── .
-│    │    ├── .                                # all image data collected for plate "9097", after quality control, as .tif files
+│    │    ├── .                                # all image data collected for plate "9094", after quality control, as .tif files
 │    │    ├── .
 │    │    └── well_N_frame_M.tif    
 │    ├── 9096
