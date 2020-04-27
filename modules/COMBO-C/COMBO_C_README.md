@@ -28,12 +28,31 @@ plates.
  CUSP9
 └── 1-4
 │    └── 9093
-│    │    └── BU
+│    │    └── BU                                     # folder with a backup of the "9093" image data
+|    |    |    └── well_1_frame_1.tif
+│    │    |    ├── .
+│    │    |    ├── .                                 # All image data collected for the 9093 plate as .tif files 
+│    │    |    ├── .
+│    │    |    ├── well_K_frame_M.tif
+│    │    |    ├── outliers.eps                      # .eps file showing the quality control/outlier detection
+│    │    |    ├── outliers.pdf                      # .pdf file with showing the quality control/outlier detection
+│    │    |    └── outliers.txt                      # .txt file with the detected & excluded outliers
 │    │    ├── Confluence
-│    │    ├── untreated
+│    │    |       └── 9093_Confluence_UNet.mat       # .mat file needed for further processing from other modules
+│    │    |       ├── BridgeAnnot_Vis_9093.mat       # .mat file needed for visualization & further processing from other modules
+│    │    |       ├── Confluence_M059K_9093.csv      # .eps file showing the quality control/outlier detection
+│    │    |       ├── Confluence_M059K_9093.eps      # .eps file showing the quality control/outlier detection
+│    │    |       └── Confluence_M059K_9093.pdf      # .eps file showing the quality control/outlier detection
+│    │    ├── untreated                              # folder, containing the first time frame of all wells, needed for quality control
+│    │    │      └── well_1_frame_1.tif
+│    │    │      ├── well_2_frame_1.tif
+│    │    │      ├── .
+│    │    │      ├── .                               
+│    │    │      ├── .
+│    │    │      ├── well_N_frame_1.tif
 │    │    ├── well_1_frame_1.tif
 │    │    ├── .
-│    │    ├── .
+│    │    ├── .                                       # all image data collected for plate "9093", after quality control, as .tif files
 │    │    ├── .
 │    │    └── well_N_frame_M.tif
 │    │          
