@@ -16,14 +16,14 @@ In the second case, the user-defined specification file is adjusted to comply wi
 suggested by COMBO-Pick and is successfully deployed. 
 
  ## Split infeasible design
- See also [COMBO_Pick_split_experiment_PDF](./COMBO_Pick_split_experiment.pdf) for a PDF guide including all print out results from the command line. 
+ See also [COMBO_Pick_split_experiment_Guide](./COMBO_Pick_split_experiment.pdf) for a PDF guide including all print out results from the command line. 
  
  ![Demo_invalid](demo/COMBO_Pick_split_experiment.gif)
  
  
  
  ## Employ feasible design
-  See also [COMBO_Pick_PDF](./COMBO_Pick.pdf) for a PDF guide including all print out results from the command line.
+  See also [COMBO_Pick_Guide](./COMBO_Pick.pdf) for a PDF guide including all print out results from the command line.
  
  ![Demo_valid](demo/COMBO_Pick.gif)
  
