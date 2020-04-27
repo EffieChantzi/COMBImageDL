@@ -21,7 +21,7 @@ plates.
  
  ![Demo_intra_plate](demo/COMBO_C_IntraPlate.gif)
  
- The results (see below) are saved in a particularly dedicated directory under \9093, \9094, \9095, \9096, \9097, \9098, \9099, \9100.
+ The intra-plate analysis results are saved in folders under the data directory that you set up in the begining. See below:
  
  
  ```
