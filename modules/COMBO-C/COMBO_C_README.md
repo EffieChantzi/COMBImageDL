@@ -40,9 +40,9 @@ plates.
 │    │    ├── Confluence
 │    │    |       └── 9093_Confluence_UNet.mat       # .mat file needed for further processing from other modules
 │    │    |       ├── BridgeAnnot_Vis_9093.mat       # .mat file needed for visualization & further processing from other modules
-│    │    |       ├── Confluence_M059K_9093.csv      # .eps file showing the quality control/outlier detection
-│    │    |       ├── Confluence_M059K_9093.eps      # .eps file showing the quality control/outlier detection
-│    │    |       └── Confluence_M059K_9093.pdf      # .eps file showing the quality control/outlier detection
+│    │    |       ├── Confluence_M059K_9093.csv      # .csv file with the cell cuture confluence results in the range [0, 1]
+│    │    |       ├── Confluence_M059K_9093.eps      # .eps file with cell culture confluence curves (shown  in %)
+│    │    |       └── Confluence_M059K_9093.pdf      # .pdf file with cell culture confluence curves (shown  in %)
 │    │    ├── untreated                              # folder, containing the first time frame of all wells, needed for quality control
 │    │    │      └── well_1_frame_1.tif
 │    │    │      ├── well_2_frame_1.tif
