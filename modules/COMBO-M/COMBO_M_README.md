@@ -113,3 +113,54 @@ experiment is performed in more than one replicate plates.
 ├── M059K_190429_9099.xlsx
 └── M059K_190429_9100.xlsx
 ```
+
+
+ ## Inter-plate analysis
+  See also [COMBO_M_Intra_Plate_Guide](./COMBO_M_InterPlate.pdf) for a PDF guide including all print out results from the command line.
+ 
+ ![Demo_inter_plate](demo/COMBO_M_InterPlate.gif)
+ 
+ The inter-plate analysis results are saved under the main data directory that was set up in the beginning. See below:
+
+ ```
+ CUSP9
+└── 1-4
+│    └── 9093  
+│    ├── 9095
+│    ├── 9097
+│    └── training
+├── 5-8
+│    └── 9094
+│    ├── 9096
+│    ├── 9098
+|    ├── 9100 
+│    └── training
+├── prototypes
+├── Results
+│     └── COMBO-C
+│     ├── COMBO-M
+|     └── COMBO-Pick
+
+
+│     │     └── Confluence_M059K_9093_9095_9097_9099.eps                 # .eps file with median cell culture confluence curves (shown  in %)
+│     │     ├── Confluence_M059K_9093_9095_9097_9099.pdf                 # as above but in .pdf format
+│     │     ├── Confluence_M059K_9093_9095_9097_9099_All_Replicates.eps  # .eps file with cell culture confluence curves (shown  in %) of all inter-plate replicates in ascending order of inter-plate variability
+│     │     ├── Confluence_M059K_9093_9095_9097_9099_All_Replicates.pdf  # as above but in .pdf format
+│     │     ├── Confluence_M059K_190429_9093_9095_9097_9099.csv          # .csv file with the median inter-plate replicate results (in %)
+│     │     ├── Confluence_Untreated_9093_9095_9097_9099.eps             # .eps file with untreated cell culture confluence curves (shown  in %)
+│     │     ├── Confluence_Untreated_9093_9095_9097_9099.pdf             # as above but in .pdf format
+│     │     ├── resampling_COMBO_C_9093_9095_9097_9099.eps               # .eps file with the resampling based null hypothesis significance testing
+│     │     └── resampling_COMBO_C_9093_9095_9097_9099.pdf               # as above but in .pdf format
+├── CUSP9_v4_1_4.txt
+├── CUSP9_v4_1_9.txt
+├── CUSP9_v4_5_9.txt
+├── CUSP9-A BMGReader2019-04-29 10.23.34.log
+├── M059K_190429_9093.xlsx
+├── M059K_190429_9094.xlsx
+├── M059K_190429_9095.xlsx
+├── M059K_190429_9096.xlsx
+├── M059K_190429_9097.xlsx
+├── M059K_190429_9098.xlsx
+├── M059K_190429_9099.xlsx
+└── M059K_190429_9100.xlsx
+```
