@@ -106,8 +106,7 @@ experiment is performed in more than one replicate plates.
 │    └── training
 ├── prototypes
 ├── Results
-│     └── COMBO-Pick
-│     ├── COMBO-C
+│     └── COMBO-C
 │     │     └── Confluence_M059K_9093_9095_9097_9099.eps                 # .eps file with median cell culture confluence curves (shown  in %)
 │     │     ├── Confluence_M059K_9093_9095_9097_9099.pdf                 # as above but in .pdf format
 │     │     ├── Confluence_M059K_9093_9095_9097_9099_All_Replicates.eps  # .eps file with cell culture confluence curves (shown  in %) of all inter-plate replicates in ascending order of inter-plate variability
@@ -117,6 +116,7 @@ experiment is performed in more than one replicate plates.
 │     │     ├── Confluence_Untreated_9093_9095_9097_9099.pdf             # as above but in .pdf format
 │     │     ├── resampling_COMBO_C_9093_9095_9097_9099.eps               # .eps file with the resampling based null hypothesis significance testing
 │     │     └── resampling_COMBO_C_9093_9095_9097_9099.pdf               # as above but in .pdf format
+│     └── COMBO-Pick
 ├── CUSP9_v4_1_4.txt
 ├── CUSP9_v4_1_9.txt
 ├── CUSP9_v4_5_9.txt
