@@ -85,7 +85,7 @@ experiment is performed in more than one replicate plates.
 
  
  ## Inter-plate analysis
-  See also [COMBO_C_Intra_Plate_Guide](./COMBO_C_InterPlate.pdf) for a PDF guide including all print out results from the command line.
+  See also [COMBO_C_Inter_Plate_Guide](./COMBO_C_InterPlate.pdf) for a PDF guide including all print out results from the command line.
  
  ![Demo_inter_plate](demo/COMBO_C_InterPlate.gif)
  
