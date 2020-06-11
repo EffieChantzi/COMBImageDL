@@ -80,6 +80,9 @@ All 6 modules of the COMBImageDL framework are organized in separate sufolders u
 5. **COMBO-Mine**: Once the inter-plate analyses are completed by all 4 aforementioned computational modules (**COMBO-C**, **COMBO-M**, **COMBO-MF** and **COMBO-V**), run **COMBO-Mine**. See detailed guidelines in its subfolder.
 
 
+[COMBO-C (Intra-plate analysis)](https://youtu.be/LVcxnDQj9o0 "COMBO-C (Intra-plate analysis)")
+
+
 
 
 
