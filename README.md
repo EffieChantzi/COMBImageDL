@@ -81,13 +81,21 @@ All 6 modules of the COMBImageDL framework are organized in separate sufolders u
 
 
 ###### Intra-plate analysis
-[![COMBO-C-intra](http://i3.ytimg.com/vi/JX28rIzJfzw/maxresdefault.jpg)](https://youtu.be/LVcxnDQj9o0 "COMBO-C (Intra-plate analysis)")
+[![COMBO-C-intra](http://i3.ytimg.com/vi/JX28rIzJfzw/maxresdefault.jpg)](https://youtu.be/JX28rIzJfzw "COMBO-C (Intra-plate analysis)")
 
 ###### Inter-plate analysis
 [![COMBO-C-inter](http://i3.ytimg.com/vi/EFbD_pvY4nY/maxresdefault.jpg)](https://www.youtube.com/watch?v=EFbD_pvY4nY "COMBO-C (Inter-plate analysis)")
 
 
-2. **COMBO-M**: Run this module first separately for each and every replicate plate per experimental batch (i.e. order 1-4 and 5-9) and then, run it per experimental batch to perform inter-plate analyses and visualization. See detailed guidelines in its subfolder.
+2. **COMBO-M**: Run this module first separately for each and every replicate plate per experimental batch (i.e. order 1-4 and 5-9) and then, run it per experimental batch to perform inter-plate analyses and visualization. See videos below.
+
+
+###### Intra-plate analysis
+[![COMBO-M-intra](http://i3.ytimg.com/vi/LVcxnDQj9o0/maxresdefault.jpg)](https://youtu.be/LVcxnDQj9o0 "COMBO-M (Intra-plate analysis)")
+
+###### Inter-plate analysis
+[![COMBO-M-inter](http://i3.ytimg.com/vi/sYMuc7GntMc/maxresdefault.jpg)](https://youtu.be/sYMuc7GntMc "COMBO-M (Inter-plate analysis)")
+
 
 3. **COMBO-MF**: Run this module first separately for each and every replicate plate per experimental batch (i.e. order 1-4 and 5-9) and then, run it per experimental batch to perform inter-plate analyses and visualization. See detailed guidelines in its subfolder.
 
