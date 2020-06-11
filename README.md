@@ -97,7 +97,18 @@ All 6 modules of the COMBImageDL framework are organized in separate sufolders u
 [![COMBO-M-inter](http://i3.ytimg.com/vi/sYMuc7GntMc/maxresdefault.jpg)](https://youtu.be/sYMuc7GntMc "COMBO-M (Inter-plate analysis)")
 
 
-3. **COMBO-MF**: Run this module first separately for each and every replicate plate per experimental batch (i.e. order 1-4 and 5-9) and then, run it per experimental batch to perform inter-plate analyses and visualization. See detailed guidelines in its subfolder.
+3. **COMBO-MF**: Run this module first separately for each and every replicate plate per experimental batch (i.e. order 1-4 and 5-9) and then, run it per experimental batch to perform inter-plate analyses and visualization. See videos below.
+
+
+###### Intra-plate analysis (one prototype)
+[![COMBO-MF-intra-one](http://i3.ytimg.com/vi/WUIHp9pjPxA/maxresdefault.jpg)](https://youtu.be/WUIHp9pjPxA "COMBO-MF (Intra-plate analysis, one prototype)")
+
+###### Intra-plate analysis (merge multiple prototypes)
+[![COMBO-MF-intra-multiple](http://i3.ytimg.com/vi/oyZlHfYEhYQ/maxresdefault.jpg)](https://youtu.be/oyZlHfYEhYQ "COMBO-MF (Intra-plate analysis, merge multiple prototypes)")
+
+###### Inter-plate analysis
+[![COMBO-MF-inter](http://i3.ytimg.com/vi/NW-0dqHuelw/maxresdefault.jpg)](https://youtu.be/NW-0dqHuelw "COMBO-MF (Inter-plate analysis)")
+
 
 4. **COMBO-V**: This module requires only the endpoint cell viability measurements and performs the intra-/inter-plate analyses and visualization at once. See detailed guidelines in its subfolder.
 
