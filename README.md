@@ -73,46 +73,45 @@ See videos below for how to employ COMBImageDL with the test data from the exhau
  
  You don't have to run this module, in order to reproduce the results of the CUSP9 data provided here but rather to design your own new experiment. 
  
- ###### Infeasible 384-well design
+ ##### Infeasible 384-well design
  [![COMBO-Pick-infeasible](http://i3.ytimg.com/vi/QA6ajTvdBkI/maxresdefault.jpg)](https://www.youtube.com/watch?v=QA6ajTvdBkI "COMBO-Pick (infeasible 384-well design)")
  
- ###### Feasible 384-well design
+ ##### Feasible 384-well design
   [![COMBO-Pick-feasible](http://i3.ytimg.com/vi/mE2kzdOEwsI/maxresdefault.jpg)](https://www.youtube.com/watch?v=mE2kzdOEwsI "(feasible 384-well plate design)")
  
 2. **COMBO-C**: Run this module first separately for each and every replicate plate per experimental batch; combination order 1-4 (plates 9093, 9095, 9097, 9099) and combination order 5-9 (plates 9094, 9096, 9098, 9100). Then, run it to perform inter-plate QC, analyses and visualization. See videos below.
 
-###### Intra-plate analysis
+##### Intra-plate analysis
 [![COMBO-C-intra](http://i3.ytimg.com/vi/JX28rIzJfzw/maxresdefault.jpg)](https://youtu.be/JX28rIzJfzw "COMBO-C (Intra-plate analysis)")
 
-###### Inter-plate analysis
+##### Inter-plate analysis
 [![COMBO-C-inter](http://i3.ytimg.com/vi/EFbD_pvY4nY/maxresdefault.jpg)](https://www.youtube.com/watch?v=EFbD_pvY4nY "COMBO-C (Inter-plate analysis)")
 
 
 3. **COMBO-M**: Run this module first separately for each and every replicate plate per experimental batch; combination order 1-4 (plates 9093, 9095, 9097, 9099) and combination order 5-9 (plates 9094, 9096, 9098, 9100). Then, run it to perform inter-plate analyses and visualization. See videos below.
 
-###### Intra-plate analysis
+##### Intra-plate analysis
 [![COMBO-M-intra](http://i3.ytimg.com/vi/LVcxnDQj9o0/maxresdefault.jpg)](https://youtu.be/LVcxnDQj9o0 "COMBO-M (Intra-plate analysis)")
 
-###### Inter-plate analysis
+##### Inter-plate analysis
 [![COMBO-M-inter](http://i3.ytimg.com/vi/sYMuc7GntMc/maxresdefault.jpg)](https://youtu.be/sYMuc7GntMc "COMBO-M (Inter-plate analysis)")
 
 
 4. **COMBO-MF**: Run this module first separately for each and every replicate plate per experimental batch; combination order 1-4 (plates 9093, 9095, 9097, 9099) and combination order 5-9 (plates 9094, 9096, 9098, 9100). Then, run it to perform inter-plate analyses and visualization. See videos below.
 
 
-###### Intra-plate analysis (one prototype)
+##### Intra-plate analysis (one prototype)
 [![COMBO-MF-intra-one](http://i3.ytimg.com/vi/WUIHp9pjPxA/maxresdefault.jpg)](https://youtu.be/WUIHp9pjPxA "COMBO-MF (Intra-plate analysis, one prototype)")
 
-###### Intra-plate analysis (merge multiple prototypes)
+##### Intra-plate analysis (merge multiple prototypes)
 [![COMBO-MF-intra-multiple](http://i3.ytimg.com/vi/oyZlHfYEhYQ/maxresdefault.jpg)](https://youtu.be/oyZlHfYEhYQ "COMBO-MF (Intra-plate analysis, merge multiple prototypes)")
 
-###### Inter-plate analysis
+##### Inter-plate analysis
 [![COMBO-MF-inter](http://i3.ytimg.com/vi/NW-0dqHuelw/maxresdefault.jpg)](https://youtu.be/NW-0dqHuelw "COMBO-MF (Inter-plate analysis)")
 
 
 5. **COMBO-V**: This module requires only the endpoint cell viability measurements and performs the intra-/inter-plate analyses and visualization at once. See video below.
 [![COMBO-V](http://i3.ytimg.com/vi/FTtV8iY26Mo/maxresdefault.jpg)](https://youtu.be/FTtV8iY26Mo "COMBO-V")
-
 
 
 6. **COMBO-Mine**: Once the inter-plate analyses are completed by all 4 aforementioned computational modules (**COMBO-C**, **COMBO-M**, **COMBO-MF** and **COMBO-V**), run **COMBO-Mine**. See videos below.
