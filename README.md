@@ -124,4 +124,4 @@ See videos below for how to employ COMBImageDL with the test data from the exhau
 
 ## License
 
-COMBImageDL is distributed under the GNU GPL v3 License - see the [LICENSE.md](LICENSE.md) file for details
+COMBImageDL is distributed under the GNU GPL v3 License - see the [LICENSE](LICENSE) file for details
