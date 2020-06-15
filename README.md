@@ -116,3 +116,12 @@ See videos below for how to employ COMBImageDL with the test data from the exhau
 
 6. **COMBO-Mine**: Once the inter-plate analyses are completed by all 4 aforementioned computational modules (**COMBO-C**, **COMBO-M**, **COMBO-MF** and **COMBO-V**), run **COMBO-Mine**. See videos below.
 [![COMBO-Mine](http://i3.ytimg.com/vi/N-tf-F_RKnk/maxresdefault.jpg)](https://youtu.be/N-tf-F_RKnk "COMBO-Mine")
+
+
+## Authors
+
+* **Effie Chantzi** (efthymia.chantzi@medsci.uu.se)
+
+## License
+
+COMBImageDL is distributed under the GNU GPL v3 License - see the [LICENSE.md](LICENSE.md) file for details
