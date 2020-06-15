@@ -23,11 +23,11 @@ An exhaustive *in vitro* evaluation of the 9-drug cocktail [CUSP9](https://doi.o
 COMBImageDL is distributed as a MATLAB application as well as a standalone desktop application for non-MATLAB Windows users (see below). If you would like to use COMBImageDL with another OS, please do contact me.  
 
 ### Get started
-Download all data from the Mendeley repository and the current COMBImageDL GitHub repository.
+Download all data from the Mendeley repository ([9093](http://dx.doi.org/10.17632/yxc8rykgpw.1), [9094](http://dx.doi.org/10.17632/psdkp4m5rz.1), [9095](http://dx.doi.org/10.17632/wbywrpz9n9.1), [9096](http://dx.doi.org/10.17632/4rcgz4b387.1), [9097](http://dx.doi.org/10.17632/kdk277mfh8.1), [9098](http://dx.doi.org/10.17632/mnsw4ymhrc.1), [9099](http://dx.doi.org/10.17632/dd5dhm768y.1), [9100](http://dx.doi.org/10.17632/xnk34rd4jg.1)) and the current COMBImageDL GitHub repository.
 
 ### Organize downloaded data
 
-Once the data from the previous step are all downloaded on your local machine/external hard drive, follow the guidelines below, in order to structure the local data directory in a way that makes the employement of all COMBImageDL modules and the reproduction of the results as smooth as possible.  
+Once you are done with the previous step of downloading, follow the guidelines below, in order to structure the local data directory in a way that makes the employement of all COMBImageDL modules and the reproduction of the results as smooth as possible.  
 
 The data directory should be set up as shown in the tree structure below. Firstly, create a top level directory called, for example, "\CUSP9". As a second step, transfer the folder "\prototypes" and the files "CUSP9_v4_1_4.txt", "CUSP9_v4_1_9.txt", "CUSP9_v4_5_9.txt", "CUSP9-A BMGReader2019-04-29 10.23.34.log", "M059K_190429_9093.xlsx", "M059K_190429_9094.xlsx", "M059K_190429_9095.xlsx", "M059K_190429_9096.xlsx", "M059K_190429_9097.xlsx", "M059K_190429_9098.xlsx", "M059K_190429_9099.xlsx" and "M059K_190429_9100.xlsx". Finally, create two subfolders "\1-4" and "\5-8" and transfer the folder "\training" as well as the unzipped image library folders "\9093, \9095, \9097, \9099" and "\9094, \9096, \9098, \9100", respectively.
 
@@ -61,10 +61,10 @@ CUSP9
 ```
 
 #### MATLAB Users
-Open MATLAB, go to APPS and install the COMBImageDL application, which is located under "\MATLAB Users" in the current GitHub repository.
+Open MATLAB, go to APPS and install the COMBImageDL application ("COMBImageDL.mlappinstall"), which you can find under "\MATLAB Users" in the current GitHub repository.
 
 #### Non-MATLAB Users
-The standalone desktop application for non-MATLAB users can be found [here](https://drive.google.com/file/d/18eZ_P8LaL62UjEqfA8XOoGtb7nG-cI55/view?usp=sharing). Download the "MyAppInstaller_mcr.zip" file, unzip it and install the application by launching the program file "MyAppInstaller_mcr.exe". Follow the instructions of the wizard. Once the installation is complete, you can find COMBImageDL on yourinstalled Windows Apps and thus, you are ready to use it.
+The standalone desktop application for non-MATLAB users can be found [here](https://drive.google.com/file/d/18eZ_P8LaL62UjEqfA8XOoGtb7nG-cI55/view?usp=sharing). Download the "MyAppInstaller_mcr.zip" file, unzip it and install the application by launching the program file "MyAppInstaller_mcr.exe". Follow the instructions of the wizard. Once the installation is complete, you can find COMBImageDL on the same list as the rest of your installed Windows Apps and thus, you are ready to use it.
 
 #### Run COMBImageDL (MATLAB and non-MATLAB Users)
 See videos below for how to employ COMBImageDL with the data from the exhaustive *in vitro* evaluation of the CUSP9 protocol and reproduce the corresponding results. In case you want to run COMBImageDL with newly generated data, you have first to segment the corresponding label-free live-cell imaging data with the the slighlty modified version of U-Net that COMBImage is using. The trained network as well as all required MATLAB scripts are provided under "\UNet Segmentation" in the current GitHub repository.
