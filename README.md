@@ -23,7 +23,7 @@ An exhaustive *in vitro* evaluation of the 9-drug cocktail [CUSP9](https://doi.o
 COMBImageDL is distributed as a MATLAB application as well as a standalone desktop application for non-MATLAB Windows users (see below). If you would like to use COMBImageDL with another OS, please do contact me.  
 
 ### Get started
-Download all data from the Mendeley repository and the current COMBImage repository.
+Download all data from the Mendeley repository and the current COMBImageDL GitHub repository.
 
 ### Organize downloaded data
 
