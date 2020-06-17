@@ -19,4 +19,4 @@ Notably, this is how the provided test data ([9093](http://dx.doi.org/10.17632/y
 3. If steps 1 and 2 are successfully employed for all label-free live-cell 
 imaging libraries of your experiment, you are ready to employ COMBImageDL, 
 either as a MATLAB or standalone desktop application. See the general 
-[documentation](https://github.com/EffieChantzi/COMBImageDL) for details.
+[documentation](https://github.com/EffieChantzi/COMBImageDL/README.md) for details.
