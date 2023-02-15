@@ -5,7 +5,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% This function produces a beeping sound when COMBSecretomics terminates.%      
+% This function produces a beeping sound when COMBImageDL terminates.    %      
 %                                                                        %
 %                                                                        %
 % %%%% Inputs %%%%                                                       %
